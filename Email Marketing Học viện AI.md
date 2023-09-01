@@ -23,8 +23,8 @@ Dưới đây là bảng đã được sắp xếp lại theo thứ tự giảm 
 ### Related
 [[Email Marketing-MOC]]
 [[Marketing]]
-[[Email Marketing.canvas|Email Marketing]]
+[[Email Marketing.canvas|Email Marketing]] (Canvas)
 [[Cách tự động hóa email marketing (Best Practices)]]
 [[9 cách xây dựng cơ sở dữ liệu email]]
 [[Tự động hóa Phân khúc khách hàng]]
-[[Email Marketing.canvas|Email Marketing]]]
+[[Email Marketing.canvas|]]
