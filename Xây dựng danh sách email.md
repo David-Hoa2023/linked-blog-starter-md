@@ -1,3 +1,6 @@
+---
+tags: email, danh sách, list
+---
 2023-09-01 and 14:19
 
 #### DEFINITION
@@ -20,7 +23,9 @@ General a photo for email marketing list building
 
 #### APPLICATION
 
-
+##### Danh sách
+ChatGPT:
+MMO:
 #### RELATED
 
 #### REFERENCES
