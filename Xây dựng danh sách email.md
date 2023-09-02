@@ -24,8 +24,8 @@ General a photo for email marketing list building
 #### APPLICATION
 
 ##### Danh sách
-ChatGPT:
-MMO:
+- ChatGPT: "D:\video_Osho\Email_OpenAI_FB_group\email_xin_ChatGPT.csv", "D:\video_Osho\Email_OpenAI_FB_group\facebook_xin_tài_liệu_Chat_GPT.xlsx"
+- MMO: "D:\video_Osho\Email_OpenAI_FB_group\MMO email.xlsx"
 #### RELATED
 
 #### REFERENCES
