@@ -1,3 +1,6 @@
+---
+tags: email
+---
 Prompt
 ```
 
