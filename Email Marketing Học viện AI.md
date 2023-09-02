@@ -1,3 +1,6 @@
+---
+tags: email
+---
 # Tự động hóa email marketing 31/8/2023
 ### Why?
 **Hỏi ChatGPT**

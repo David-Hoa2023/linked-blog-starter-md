@@ -1,4 +1,5 @@
 2023-09-01 and 14:19
+
 #### DEFINITION
 What are the best practices in building email list
 > [!ai]+ AI
