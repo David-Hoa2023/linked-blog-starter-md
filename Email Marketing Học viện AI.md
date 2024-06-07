@@ -25,7 +25,7 @@ Dưới đây là bảng đã được sắp xếp lại theo thứ tự giảm 
 *Lưu ý: Các con số trên đây chỉ mang tính chất tham khảo và có thể thay đổi theo thời gian và ngữ cảnh cụ thể. Hãy kiểm tra các nguồn thông tin cập nhật để có dữ liệu chính xác nhất.*
 ### Related
 [[Email Marketing-MOC]]
-[[Marketing]]
+[[Marketing MOC]]
 [[Email Marketing.canvas|Email Marketing]] (Canvas)
 [[Cách tự động hóa email marketing (Best Practices)]]
 [[9 cách xây dựng cơ sở dữ liệu email]]
